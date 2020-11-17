@@ -3,3 +3,5 @@ ini 1
 
 
 ini adalah file 1
+pelajar programmer
+file 1 di coret sama file baru
